@@ -78,8 +78,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HimanshuParamhansSharma&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuParamhansSharma&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" />
+
+</div>
 
 <br/>
 
