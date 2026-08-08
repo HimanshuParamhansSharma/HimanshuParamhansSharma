@@ -73,6 +73,27 @@
 * **Currently Learning:** Advanced Model Deployment Strategies (Docker containerization and ONNX runtime optimization for low-latency inference).
 
 ---
+<div align="center">
+
+<!-- Dark Theme -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HimanshuParamhansSharma&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuParamhansSharma&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" />
+
+<!-- Tokyo Night Theme -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HimanshuParamhansSharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuParamhansSharma&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+
+<!-- Radical Theme -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HimanshuParamhansSharma&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuParamhansSharma&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Top Languages" />
+
+<!-- Dracula Theme -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HimanshuParamhansSharma&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuParamhansSharma&layout=compact&theme=dracula&hide_border=true&hide=html,css" alt="Top Languages" />
+
+</div>
+
+
 
 ## 📊 GitHub Analytics
 
