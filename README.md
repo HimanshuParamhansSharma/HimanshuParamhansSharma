@@ -1,35 +1,34 @@
 <div align="center">
 
-# Himanshu Paramhans Sharma
+# Himanshu Sharma
 
-### Data Science & Machine Learning Specialist | Predictive Analytics & Deep Learning
+### Data Analyst & Machine Learning Engineer | B.Tech CSE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HimanshuParamhansSharma)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshu.paramhans.sharma@gmail.com)
 
 ---
 
 </div>
 
-## 📌 Executive Summary
+## 📌 Professional Summary
 
-* **Data Science Specialist** focused on building end-to-end predictive machine learning pipelines, deep learning architectures, and spatial analytics workflows.
-* **Co-author** of published technical research on Augmented Reality frameworks ([BookAR](https://github.com)).
-* **Track record** of engineering robust statistical models—ranging from high-dimensional classification in sports analytics to complex spatial EDA.
-* **Aspirational Goal:** Building production-grade ML engines and scalable decision-support systems for data-driven product teams.
+* **B.Tech CSE Graduate** with hands-on experience engineering end-to-end machine learning models and data pipelines[cite: 2].
+* **Certified Data Scientist (DataMites)** proficient in Exploratory Data Analysis (EDA), feature engineering, high-cardinality encoding, and model optimization[cite: 2].
+* **Proven Track Record:** Built regression & classification models achieving up to **0.88 $R^2$ score**, **14% RMSE reduction**, and **0.74 F1-score** across sports analytics, aviation, and epidemiological time-series data[cite: 2].
+* **Target Roles:** Seeking Data Analyst and ML Engineer positions in data-driven product environments[cite: 2].
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages & Databases**
+**Languages & Querying**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
-**Machine Learning & Deep Learning**
+**Machine Learning & Deep Learning**  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=flat-square&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -37,12 +36,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Analytics, Visualization & Tools**
+**Data Visualization & Business Intelligence**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Core Methodologies & Tools**  
+`Data Cleaning` • `EDA` • `Feature Engineering` • `Outlier Treatment` • `Time-Series Modeling` • `Git`
 
 ---
 
@@ -52,15 +52,28 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🏀 NBA Shot Selection Prediction</h3>
-      <p><b>Impact:</b> Engineered an end-to-end classification pipeline analyzing 30k+ shot instances using XGBoost and Deep Learning to optimize probability scoring (Log Loss metric).</p>
-      <p><code>Python</code> • <code>scikit-learn</code> • <code>XGBoost</code> • <code>TensorFlow</code></p>
-      <a href="https://github.com/your-username/nba-shot-prediction"><strong>View Repository »</strong></a>
+      <p><b>Impact:</b> Architected an end-to-end classification pipeline for 30,000+ career shot attempts. Resolved target sparsity and high-cardinality features, achieving an F1-score of 0.74 using optimized Logistic Regression and benchmarking 7 ML/DL models.</p>
+      <p><code>Python</code> • <code>Scikit-learn</code> • <code>XGBoost</code> • <code>TensorFlow/Keras</code></p>
+      <a href="https://github.com/HimanshuParamhansSharma/NBA-Shot-Selection-Prediction"><strong>View Repository »</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📖 BookAR Research Manuscript</h3>
-      <p><b>Impact:</b> Co-authored peer-reviewed research exploring Augmented Reality deployment models for interactive engineering education and spatial rendering.</p>
-      <p><code>Augmented Reality</code> • <code>Computer Vision</code> • <code>Technical Research</code></p>
-      <a href="https://github.com/your-username/book-ar"><strong>View Repository »</strong></a>
+      <h3>✈️ Flight Price Prediction Pipeline</h3>
+      <p><b>Impact:</b> Built a regression framework predicting ticket fares from historical metadata. Achieved a peak <b>0.88 R² score</b> and <b>14% RMSE reduction</b> through tuning, complemented by an interactive Power BI dashboard.</p>
+      <p><code>Python</code> • <code>Scikit-learn</code> • <code>XGBoost</code> • <code>Power BI</code></p>
+      <a href="https://github.com/HimanshuParamhansSharma/Flight-Price-Prediction"><strong>View Repository »</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦠 COVID-19 Global Time-Series Forecasting</h3>
+      <p><b>Impact:</b> Engineered a deep learning forecasting pipeline projecting multi-month global tracking trends using ANN and Polynomial Regression architectures (test RMSE: 53,270).</p>
+      <p><code>Python</code> • <code>TensorFlow/Keras</code> • <code>Scikit-learn</code></p>
+      <a href="https://github.com/HimanshuParamhansSharma/COVID19-Global-Forecasting"><strong>View Repository »</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Education & Certifications</h3>
+      <p><b>B.Tech in Computer Science & Engineering</b><br>Dr. Babasaheb Ambedkar Technological University (2021–2025)</p>
+      <p><b>Certified Data Scientist</b><br>DataMites Skillogic, Hyderabad</p>
     </td>
   </tr>
 </table>
@@ -69,31 +82,10 @@
 
 ## ⚡ Current Focus
 
-* **Currently Building:** Production-grade REST API inference endpoints using FastAPI for pre-trained machine learning classification pipelines.
-* **Currently Learning:** Advanced Model Deployment Strategies (Docker containerization and ONNX runtime optimization for low-latency inference).
+* **Currently Building:** REST API microservices for model deployment using Python & Docker containerization.
+* **Currently Learning:** Advanced MLOps practices, model monitoring, and pipeline orchestration.
 
 ---
-<div align="center">
-
-<!-- Dark Theme -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HimanshuParamhansSharma&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuParamhansSharma&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" />
-
-<!-- Tokyo Night Theme -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HimanshuParamhansSharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuParamhansSharma&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-
-<!-- Radical Theme -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HimanshuParamhansSharma&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuParamhansSharma&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Top Languages" />
-
-<!-- Dracula Theme -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HimanshuParamhansSharma&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuParamhansSharma&layout=compact&theme=dracula&hide_border=true&hide=html,css" alt="Top Languages" />
-
-</div>
-
-
 
 ## 📊 GitHub Analytics
 
@@ -102,11 +94,9 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=HimanshuParamhansSharma&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuParamhansSharma&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" />
 
-</div>
-
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuParamhansSharma&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -114,14 +104,10 @@
 
 <div align="center">
 
-### 🤝 Let's Connect & Build
+### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HimanshuParamhansSharma)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:himanshu.paramhans.sharma@gmail.com)
 
 </div>
-
-<..
--->
