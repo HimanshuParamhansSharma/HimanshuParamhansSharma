@@ -14,10 +14,10 @@
 
 ## 📌 Professional Summary
 
-* **B.Tech CSE Graduate** with hands-on experience engineering end-to-end machine learning models and data pipelines[cite: 2].
-* **Certified Data Scientist (DataMites)** proficient in Exploratory Data Analysis (EDA), feature engineering, high-cardinality encoding, and model optimization[cite: 2].
-* **Proven Track Record:** Built regression & classification models achieving up to **0.88 $R^2$ score**, **14% RMSE reduction**, and **0.74 F1-score** across sports analytics, aviation, and epidemiological time-series data[cite: 2].
-* **Target Roles:** Seeking Data Analyst and ML Engineer positions in data-driven product environments[cite: 2].
+* **B.Tech CSE Graduate** with hands-on experience engineering end-to-end machine learning models and data pipelines[cite: 3].
+* **Certified Data Scientist (DataMites)** proficient in Exploratory Data Analysis (EDA), behavioral feature engineering, high-cardinality encoding, and model optimization[cite: 3].
+* **Proven Track Record:** Built regression & classification models achieving up to **0.88 $R^2$ score**, **14% RMSE reduction**, **0.74 F1-score**, and surpassing a **37.90% Gini benchmark** across financial credit risk, sports analytics, aviation, and epidemiological time-series data[cite: 3].
+* **Target Roles:** Seeking Data Analyst and ML Engineer positions in data-driven product environments[cite: 3].
 
 ---
 
@@ -30,6 +30,7 @@
 
 **Machine Learning & Deep Learning**  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-20BEFF?style=flat-square&logo=lightgbm&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=flat-square&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -51,10 +52,10 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏀 NBA Shot Selection Prediction</h3>
-      <p><b>Impact:</b> Architected an end-to-end classification pipeline for 30,000+ career shot attempts. Resolved target sparsity and high-cardinality features, achieving an F1-score of 0.74 using optimized Logistic Regression and benchmarking 7 ML/DL models.</p>
-      <p><code>Python</code> • <code>Scikit-learn</code> • <code>XGBoost</code> • <code>TensorFlow/Keras</code></p>
-      <a href="https://github.com/HimanshuParamhansSharma/NBA-Shot-Selection-Prediction"><strong>View Repository »</strong></a>
+      <h3>💳 Bank GoodCredit Credit Risk Scoring</h3>
+      <p><b>Impact:</b> Consolidated 3 relational tables into a master dataset with bureau-style behavioral features (delinquency timing, utilization, enquiry recency). Benchmarked Random Forest and LightGBM models, surpassing the business Gini benchmark of 37.90% and validating risk separation via 10-decile rank-ordering.</p>
+      <p><code>Python</code> • <code>SQL</code> • <code>LightGBM</code> • <code>Scikit-learn</code></p>
+      <a href="https://github.com/HimanshuParamhansSharma/Bank-GoodCredit-Credit-Risk-Scoring"><strong>View Repository »</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3>✈️ Flight Price Prediction Pipeline</h3>
@@ -65,15 +66,23 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🏀 NBA Shot Selection Prediction</h3>
+      <p><b>Impact:</b> Architected an end-to-end classification pipeline for 30,000+ career shot attempts. Resolved target sparsity and high-cardinality features, achieving an F1-score of 0.74 using optimized Logistic Regression and benchmarking 7 ML/DL models.</p>
+      <p><code>Python</code> • <code>Scikit-learn</code> • <code>XGBoost</code> • <code>TensorFlow/Keras</code></p>
+      <a href="https://github.com/HimanshuParamhansSharma/NBA-Shot-Selection-Prediction"><strong>View Repository »</strong></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🦠 COVID-19 Global Time-Series Forecasting</h3>
       <p><b>Impact:</b> Engineered a deep learning forecasting pipeline projecting multi-month global tracking trends using ANN and Polynomial Regression architectures (test RMSE: 53,270).</p>
       <p><code>Python</code> • <code>TensorFlow/Keras</code> • <code>Scikit-learn</code></p>
       <a href="https://github.com/HimanshuParamhansSharma/COVID19-Global-Forecasting"><strong>View Repository »</strong></a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🎓 Education & Certifications</h3>
-      <p><b>B.Tech in Computer Science & Engineering</b><br>Dr. Babasaheb Ambedkar Technological University (2021–2025)</p>
-      <p><b>Certified Data Scientist</b><br>DataMites Skillogic, Hyderabad</p>
+      <p><b>B.Tech in Computer Science & Engineering</b> — Dr. Babasaheb Ambedkar Technological University (2021–2025)</p>
+      <p><b>Certified Data Scientist</b> — DataMites Skillogic, Hyderabad</p>
     </td>
   </tr>
 </table>
